@@ -1,7 +1,5 @@
-torch
-torchvision
-tqdm
-numpy
+streamlit
+pandas
 pillow
-scikit-learn
-timm
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torch --index-url https://download.pytorch.org/whl/cpu
